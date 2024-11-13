@@ -1,0 +1,31 @@
+body {
+    font-family: "Hind Siliguri", sans-serif;
+    color: white;
+    background: rgb(19, 0, 44);
+    margin: 0px;
+
+}
+    header {
+        border-bottom: solid 2px rgb(42, 122, 228);
+        padding: 20px;
+        font-size: 32px;
+        color: rgb(42, 122, 228);
+        padding: 20px;
+        font-size: 32px;
+    }
+   
+    section {
+       
+        padding-bottom: 80px;
+        padding-top: 80px;
+        display: flex;
+        justify-content: center;
+    }
+    
+    .chamada-texto {
+        margin-right: 5%;
+    }
+img{
+height: 200px;
+
+}
